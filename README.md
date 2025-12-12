@@ -31,4 +31,4 @@ How to access the data:
 
 - 1. NIFC FIRIS (2025). Palisades and Eaton Dissolved Fire Perimeters (2025, Jan. 21). https://hub.arcgis.com/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about. [Accessed Nov. 20, 2025]
 - 2. United States Geological Survey. Landsat Collection 2 Level-2: Microsoft Planetary Computer. (2024). https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2. [Accessed Nov. 20, 2025]
-- 3. Agency for Toxic Substances and Disease Registry. (2024, December 2). EJI data download. U.S. Department of Health & Human Services. https://www.atsdr.cdc.gov/place-health/php/eji/eji-data-download.html [Accessed Nov. 20, 2025]
+- 3. Centers for Disease Control and Prevention & Agency for Toxic Substances and Disease Registry. (2024). Environmental Justice Index 2024: United States geodatabase [Data set]. GRASP Program. https://atsdr.cdc.gov/place-health/php/eji/eji-data-download.html [Accessed Nov. 20, 2025]
