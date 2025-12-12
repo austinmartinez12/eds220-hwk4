@@ -12,6 +12,8 @@ In addition to mapping fire perimeters, this analysis used EJI (Environmental Ju
 ```
 .
 ├── fires-analysis-blog-post.ipynb
+├── images
+│   └── LDN-L-PP-FIRE-0108-DC-20-2.png
 ├── README.md
 └── .gitignore
 ```
